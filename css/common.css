@@ -21,4 +21,27 @@ input {
 button {
   padding: 8px 12px;
   cursor: pointer;
+  text-align: center;
+  display: block;
+  
+}
+/* ------------ */
+
+.hello {
+  color: red;
+  text-align: center;
+  background-color: black;
+
+}
+.hello-change {
+  background-color: red;
+  color: black;
+  
+}
+.button-color {
+  display: flex;
+  justify-content: center;
+}
+.nananana {
+  color: rgb(225, 218, 7);
 }
